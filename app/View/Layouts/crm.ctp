@@ -103,7 +103,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
         	<h1><?php echo $this->Html->link($cakeDescription, 'http://cakephp.org'); ?></h1>
 			
 			<?php // echo $this->Session->flash(); ?>
-
+            <h1>Layout CRM</h1>
 			<?php echo $this->fetch('content'); ?>
 			<?php // echo $this->element('sql_dump'); ?>
 

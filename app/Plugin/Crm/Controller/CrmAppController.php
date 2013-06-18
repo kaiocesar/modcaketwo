@@ -4,4 +4,10 @@
  *
  */
 
-class CrmAppController extends AppController {}
+class CrmAppController extends AppController {
+
+	public function beforeFilter() {
+		$this->layout = "crm";
+	}
+
+}

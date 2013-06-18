@@ -592,3 +592,226 @@ Request URL: /cake2/public/Crm/Tasks/
 Stack Trace:
 #0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-06-18 13:58:13 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 14:20:29 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 14:55:35 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 14:55:36 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 14:55:37 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:00:53 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:00:54 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:01:19 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:01:20 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:01:32 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:02:41 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:04:05 Error: [MissingActionException] Action TasksController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TasksController',
+  'action' => 'js',
+)
+Request URL: /cake2/public/crm/Tasks/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(TasksController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-06-18 15:04:05 Error: [MissingActionException] Action TasksController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TasksController',
+  'action' => 'js',
+)
+Request URL: /cake2/public/crm/Tasks/js/vendor/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(TasksController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-06-18 15:04:05 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:04:50 Error: [MissingActionException] Action TasksController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TasksController',
+  'action' => 'js',
+)
+Request URL: /cake2/public/crm/Tasks/js/vendor/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(TasksController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-06-18 15:04:50 Error: [MissingActionException] Action TasksController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TasksController',
+  'action' => 'js',
+)
+Request URL: /cake2/public/crm/Tasks/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(TasksController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-06-18 15:04:50 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:05:30 Error: [MissingActionException] Action TasksController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TasksController',
+  'action' => 'js',
+)
+Request URL: /cake2/public/crm/Tasks/js/vendor/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(TasksController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-06-18 15:05:30 Error: [MissingActionException] Action TasksController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TasksController',
+  'action' => 'js',
+)
+Request URL: /cake2/public/crm/Tasks/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(TasksController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-06-18 15:05:31 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 15:05:45 Error: [MissingActionException] Action TasksController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TasksController',
+  'action' => 'js',
+)
+Request URL: /cake2/public/crm/Tasks/js/vendor/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(TasksController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-06-18 15:05:45 Error: [MissingActionException] Action TasksController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TasksController',
+  'action' => 'js',
+)
+Request URL: /cake2/public/crm/Tasks/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake2\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(TasksController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-06-18 15:05:46 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
