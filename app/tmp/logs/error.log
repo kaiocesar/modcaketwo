@@ -1,0 +1,594 @@
+2013-06-18 09:10:23 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 09:10:23 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 09:10:23 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 09:10:24 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:23:27 Error: [MissingControllerException] Controller class TasksController could not be found.
+Exception Attributes: array (
+  'class' => 'TasksController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Tasks
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:23:33 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:26:38 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:26:40 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:26:40 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:26:40 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:26:40 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:26:40 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:26:44 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:10 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:11 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:11 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:11 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:11 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:11 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:11 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:12 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:15 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:21 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:21 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:21 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:22 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:22 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:27:48 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:29:03 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:29:04 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:29:04 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:29:04 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:29:04 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:29:04 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:29:04 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:29:05 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:30:46 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:30:47 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:30:47 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:30:47 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:30:48 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:30:48 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:31:00 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:31:01 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:31:02 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:31:02 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:31:02 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:32:11 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:33:20 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:33:20 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:33:20 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:33:21 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:33:21 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:34:54 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:34:54 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:35:04 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:35:04 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:36:57 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:37:25 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:37:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:38:04 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:38:06 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:38:07 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:40:17 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/index
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:40:21 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-18 13:40:25 Error: [MissingControllerException] Controller class CrmController could not be found.
+Exception Attributes: array (
+  'class' => 'CrmController',
+  'plugin' => NULL,
+)
+Request URL: /cake2/public/Crm/Tasks/
+Stack Trace:
+#0 C:\xampp\htdocs\cake2\public\index.php(67): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
