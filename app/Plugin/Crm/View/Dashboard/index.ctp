@@ -10,6 +10,15 @@
   </ul>
 </div>
 
+<ul class="nav nav-list bs-docs-sidenav affix">
+          <li><a href="#typography"><i class="icon-chevron-right"></i> Typography</a></li>
+          <li class="active"><a href="#code"><i class="icon-chevron-right"></i> Code</a></li>
+          <li class=""><a href="#tables"><i class="icon-chevron-right"></i> Tables</a></li>
+          <li class=""><a href="#forms"><i class="icon-chevron-right"></i> Forms</a></li>
+          <li class=""><a href="#buttons"><i class="icon-chevron-right"></i> Buttons</a></li>
+          <li class=""><a href="#images"><i class="icon-chevron-right"></i> Images</a></li>
+          <li class=""><a href="#icons"><i class="icon-chevron-right"></i> Icons by Glyphicons</a></li>
+        </ul>
 
 
 
@@ -27,3 +36,10 @@
   	<td>email@email.com</td>
   </tr>
 </table>
+
+
+
+
+
+        
+
