@@ -52,18 +52,12 @@
         <div class="span3">
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
-              <li class="nav-header">Sidebar</li>
-              <li class="active"><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li class="nav-header">Sidebar</li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
+              <li class="nav-header">Posts</li>
+              <li class="active"><a href="/admin/posts/add">Create a new post</a></li>
+              <li><a href="/admin/posts/index">List all posts</a></li>
+              <li class="nav-header">Authors</li>
+              <li><a href="/admin/authors/add">Create a new author</a></li>
+              <li><a href="/admin/authors/index">List all authors</a></li>
               <li class="nav-header">Sidebar</li>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>

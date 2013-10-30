@@ -2,12 +2,28 @@
 
 use modcaketwo_db;
 
+CREATE TABLE posts(
+	id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	title VARCHAR(256),
+	body TEXT,
+	created DATETIME DEFAULT NULL,
+	modified DATETIME DEFAULT NULL	
+);
 
-create table users(
-	`username` int primary key not null auto_increment,
-	`groud_id` int`, 
-	`password` varchar(35),
-	`email` varchar(120),
-	`firstname` varchar(45),
-	`lastname` varchar(45)
-)
+
+INSERT INTO posts(title, body, created)
+	VALUES("TITLE FIRST POST BLOG","CONTENT FIRST POST BLOG CAKEPHP 2.X",NOW());
+
+INSERT INTO posts(title, body, created)
+	VALUES("TITLE SECOND  POST BLOG","CONTENT SECOND POST BLOG CAKEPHP 2.X",NOW());
+
+INSERT INTO posts(title, body, created)
+	VALUES("TITLE THIRD POST BLOG","CONTENT THIRD POST BLOG CAKEPHP 2.X",NOW());
+
+CREATE TABLE authors(
+	id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
+	name varchar(45),
+	email varchar(120),
+	created DATETIME DEFAULT NULL,
+	modified DATETIME DEFAULT NULL
+);

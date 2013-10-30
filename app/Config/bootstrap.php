@@ -72,7 +72,8 @@ Cache::config('default', array('engine' => 'File'));
  *
  */
 
-CakePlugin::load('Admin');
+// CakePlugin::load(array('Admin', 'Kaauth'));
+ CakePlugin::loadAll();
 
 
 /**
