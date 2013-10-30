@@ -30,7 +30,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#">Project name</a>
+          <a class="brand" href="#">Admin Area</a>
           <div class="nav-collapse collapse">
             <p class="navbar-text pull-right">
               Logged in as <a href="#" class="navbar-link">Username</a>
@@ -74,6 +74,13 @@
 
 
         <div class="span9">
+            <h1><?php echo $title_for_page; ?></h1>
+            <ul class="breadcrumb" style="margin-bottom: 5px;">
+              <li><a href="#">Home</a> <span class="divider">/</span></li>
+              <li><a href="#">Library</a> <span class="divider">/</span></li>
+              <li class="active">Data</li>
+            </ul>
+
             <?php // echo $this->Session->flash(); ?>
             <?php echo $this->fetch('content'); ?>
             
@@ -81,11 +88,20 @@
 
       </div><!--/row-fluid -->
 
-      
 
-      <footer>
-        <?php echo "<pre>". $this->element('sql_dump') ."</pre>"; ?>
-      </footer>
+      
+    <?php
+    /**
+     * SQL Debugger
+     */
+
+    
+
+        if (strlen($this->element('sql_dump'))>0): ?>
+            <footer>
+                <?php echo "<pre>". $this->element('sql_dump') ."</pre>";  ?>
+            </footer>
+    <?php endif; ?>
 
     </div><!--/.fluid-container-->
 

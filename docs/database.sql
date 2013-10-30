@@ -1,9 +1,9 @@
-create schema modcaketwo;
+-- create schema modcaketwo_db;
 
-use database modcaketwo;
+use modcaketwo_db;
 
 
-create table (
+create table users(
 	`username` int primary key not null auto_increment,
 	`groud_id` int`, 
 	`password` varchar(35),
