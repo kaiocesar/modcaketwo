@@ -1,0 +1,9 @@
+Veja : http://book.cakephp.org/2.0/en/plugins.html
+Primeiro:
+- vamos até o arquivo app/Config/bootstrap.php
+
+ insira a função de load para carregar o plugin, por exemplo:
+ 
+	CakePlugin::load("Admin"); // carregamento individual de plugin
+ou pode carregar todos os plugins:
+	CakePlugin::loadAll();
